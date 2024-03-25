@@ -40,38 +40,69 @@ Tehtävät
 - Kokousjulkaisun kokoaminen julkaisu digitaalisesti	0 - 3 kk jälkeen
 - Yksityiskohtaisempi konferenssin järjestäjän muistilista liitteessä 1	
 
+
 Rajaukset
+
 Mahdollisen näyttelyn järjestely delegoidaan 3. Osapuolelle
 Taloussuunnittelu ja seuranta tehdään erillisellä taloushallinnon tietojärjestelmällä
+
 Työntekijöiden palkat ja palkkiot hoidetaan erillisellä henkilöstöhallinnon tietojärjestelmällä
+
 Projektinhallinta (aikataulun suunnittelu ja seuranta) tehdään erillisellä ohjelmistolla
+
 Majoitusvarauksista toimitetaan raportti hotellille, kun määräaika kulunut umpeen
-Tietojärjestelmän avulla hoidettavat tehtävät 
+
+
+Tietojärjestelmän avulla hoidettavat tehtävät
+
 •	Tehtävien vastuuhenkilöt, deadlinet ja tilat
+
 •	Esitelmien hallinta ja tieteellisen ohjelman kokoaminen
+
 •	Osallistujien rekisteröinti, laskutus
+
 •	Maksuseuranta
+
 •	Majoitusvaraukset – ja sos.ohjelmavaraukset
+
 Tietojärjestelmän tulosteet 
+
 •	Esitelmäehdotukset teemoittain
+
 •	Arvioijan arviointilomake
+
 •	Esitelmien hyväksymiskirjeet
+
 •	Konferenssin ohjelma
+
 •	Proceedings julkaisun pohjatiedot
+
 •	Majoitusvaraukset
+
 •	Laskut 
+
 •	Vajaista maksuista karhukirjepostitus
+
 •	Vahvistuskirjeet maksaneille
+
 •	Osallistujaluettelo, Nimilaput, Postitustarrat, Osallistumistodistukset
+
+
 Aikataulun suunnittelu ja seuranta
+
 Järjestelytyöt aloitetaan tyypillisesti 2 vuotta ennen varsinaista kokousta. Ensimmäinen toimenpide on järjestelyaikataulun suunnittelu. 
 Tehtäville asetetaan määräpäivämäärät, joiden avulla pääsihteeri seuraa järjestelyjen etenemistä. 
+
  
 Esitelmien valinta
+
 Call for Papers on varsinainen esitelmäehdotusten kutsu. Esitelmäehdotukset on lähetettävä asetettuun määräaikaan mennessä. 
 Ohjelmasihteeri jakaa ehdotukset tieteellisille työryhmille, jotka jakavat ne edelleen arvioijille. Kunkin esitelmän arvioi 2-5 arvioijaa. 
 Arvioijat raportoivat ohjelmasihteerille ja tieteelliset toimikunnat päättävät valittavat esitelmät. 
+
+
 Osallistujien rekisteröinti
+
 Kutsutut puhujat voivat osallistua ilmaiseksi kaikkeen tarjolla olevaan ohjelmaan. Esitelmien pitäjien ja muiden tekijöiden kohtelu vaihtelee kokouksittain. 
 Yleensä he maksavat itse kaiken. Henkilöt, jotka osallistuvat kokoukseen kuuntelijoina maksavat alennetun osallistumismaksun, 
 mikäli ilmoittautuvat (ja maksavat) ennen asetettua määräpäivää. Myöhemmin ilmoittautuneet (tai maksaneet) maksavat normaalihinnan. 
